@@ -1,14 +1,20 @@
 <!-- Profile -->
 <!-- PageView, Twitter, Mastodon, GitHub -->
-<a href="https://github.com/ytyaru/ytyaru/" target="_blank"><img src="https://komarev.com/ghpvc/?username=ytyaru" alt="ytyaru" /></a><a href="http://twitter.com/ytyaru1" title="Twitter follower" target="_blank"><img height="20" src="https://img.shields.io/twitter/follow/ytyaru1?label=follower&logo=twitter&style=flat" /></a><a href="https://github.com/ytyaru" title="GitHub follower" target="_blank"><img height="20" src="https://img.shields.io/github/followers/ytyaru?label=follower&logo=github&style=flat" /></a><a href="https://mstdn.jp/web/accounts/233143" title="Mastodon follower" target="_blank"><img src="https://img.shields.io/mastodon/follow/233143?domain=https%3A%2F%2Fmstdn.jp&label=follower" /></a><a href="http://ytyaru.hatenablog.com/ytyaru" title="Hatena blog" target="_blank"><img src="http://www.google.com/s2/favicons?domain=www.hatena.ne.jp" /></a>
+<a href="https://github.com/ytyaru/ytyaru/" target="_blank"><img src="https://komarev.com/ghpvc/?username=ytyaru" alt="ytyaru" /></a><a href="http://twitter.com/ytyaru1" title="Twitter follower" target="_blank"><img height="20" src="https://img.shields.io/twitter/follow/ytyaru1?label=follower&logo=twitter&style=flat" /></a><a href="https://github.com/ytyaru" title="GitHub follower" target="_blank"><img height="20" src="https://img.shields.io/github/followers/ytyaru?label=follower&logo=github&style=flat" /></a><a href="https://mstdn.jp/web/accounts/233143" title="Mastodon follower" target="_blank"><img src="https://img.shields.io/mastodon/follow/233143?domain=https%3A%2F%2Fmstdn.jp&label=follower" /></a><a href="http://ytyaru.hatenablog.com/ytyaru" title="Hatena blog" target="_blank"><img src="http://www.google.com/s2/favicons?domain=www.hatena.ne.jp" /></a><a href="https://scrapbox.io/yaru/" title="scrapbox" target="_blank"><img src="http://www.google.com/s2/favicons?domain=scrapbox.io" /></a>
 
 <!-- Languages, Stat Card: https://github.com/anuraghazra/github-readme-stats -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytyaru&layout=compact&langs_count=8)](https://github.com/ytyaru?tab=repositories)[![ytyaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytyaru&show_icons=true)](https://github.com/ytyaru?tab=repositories)
 -->
+<!--
 <div align="left">
 <a href="https://github.com/ytyaru?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytyaru&layout=compact&langs_count=8" alt="Top Langs" /></a><a href="https://github.com/ytyaru?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ytyaru&show_icons=true" /></a>
 </div>
+-->
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytyaru&layout=compact&langs_count=8" alt="Top Langs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ytyaru&show_icons=true" />
+</p>
 
 <!-- Skills -->
 <p align="left">
